@@ -20,5 +20,5 @@ Abra o navegador no endereço exibido no terminal (ex: https://localhost:7225).
 
 ## Tecnologia utilizada: Desenvolvimento via Blazor, utilizando o .net com linguagem C#
 ## 📸Screenshot: 
-![Print do terminal rodando o projeto](./kaio.png)
+![Print do terminal rodando o projeto](./kaio.PNG)
 ## Heuristica: O sistema busca ser fácil de usar, mas conta com uma documentação clara e acessível, ajudando o usuario a encontrar rapidamente o que precisa para realizar suas tarefas
